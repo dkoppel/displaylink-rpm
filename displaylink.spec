@@ -137,7 +137,7 @@ fi
 /usr/bin/systemctl daemon-reload
 
 %changelog
-* Mon Jan 06 2019 Michael L. Young <elgueromexicano@gmail.com> 1.6.4-2
+* Mon Jan 06 2020 Michael L. Young <elgueromexicano@gmail.com> 1.6.4-2
 - Apply patches contributed by abucodonosor and severach on GitHub to get evdi
   working on kernel 5.4.
   See https://github.com/DisplayLink/evdi/issues/172#issuecomment-561394805
